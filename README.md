@@ -14,11 +14,7 @@ I explain things with **odd analogies**, write **usable documentation**, and whe
 
 ## Programming Languages
 
-<a
-  href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-  target="_blank"
-  rel="noreferrer"
->
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
   <img
     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
     alt="javascript"
