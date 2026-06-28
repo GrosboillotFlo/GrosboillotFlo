@@ -1,14 +1,14 @@
 ## Bonjour, je suis Flo 👋
 
 Je suis formateur pour **débutants complets** en développement web et coach pour celles et ceux qui veulent survivre à leurs **tests techniques** et entretiens d'alternance.
-J'explique avec des **analogies étranges**, je rédige de la **doc lisible**, et quand je ne fais pas ça... je crée des **tests**, des **APIs**, et d'autres expériences techniques dont personne n'avait spécialement besoin - pour le moment.
+J'explique avec des **analogies par milliers**, je rédige de la **doc lisible**, et quand je ne fais pas ça, je crée des **tests**, des **APIs**, et d'autres expériences techniques dont personne n'avait spécialement besoin - pour le moment !
 
 ---
 
 ## Hi, I'm Flo 👋
 
 I'm a trainer for **complete beginners** in web development and coach for those trying to survive **technical tests** and apprenticeship interviews.
-I explain things with **odd analogies**, write **usable documentation**, and when I'm not doing that... I build **tests**, **APIs**, and other technical experiments nobody asked for - until later.
+I explain things with **thousand of analogies**, write **usable documentation**, and when I'm not doing that I build **tests**, **APIs**, and other technical experiments nobody asked for - until later !
 
 ---
 
